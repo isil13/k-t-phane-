@@ -1,0 +1,14 @@
+C:\Users\altin\source\repos\kütüphane uygulaması\bin\Debug\net8.0\kütüphane uygulaması.exe
+C:\Users\altin\source\repos\kütüphane uygulaması\bin\Debug\net8.0\kütüphane uygulaması.deps.json
+C:\Users\altin\source\repos\kütüphane uygulaması\bin\Debug\net8.0\kütüphane uygulaması.runtimeconfig.json
+C:\Users\altin\source\repos\kütüphane uygulaması\bin\Debug\net8.0\kütüphane uygulaması.dll
+C:\Users\altin\source\repos\kütüphane uygulaması\bin\Debug\net8.0\kütüphane uygulaması.pdb
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.AssemblyInfoInputs.cache
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.AssemblyInfo.cs
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.dll
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\refint\kütüphane uygulaması.dll
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.pdb
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\kütüphane uygulaması.genruntimeconfig.cache
+C:\Users\altin\source\repos\kütüphane uygulaması\obj\Debug\net8.0\ref\kütüphane uygulaması.dll
